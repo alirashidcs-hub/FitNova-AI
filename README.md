@@ -1,20 +1,135 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 💪 FitNova AI
 
-# Run and deploy your AI Studio app
+> **An AI-powered fitness and wellness platform designed to help users build healthy habits, track workouts, monitor progress, and receive personalized coaching through an intuitive and modern user experience.**
 
-This contains everything you need to run your app locally.
+🎥 **Demo Video:** *Available in this repository*
 
-View your app in AI Studio: https://ai.studio/apps/cf0f89e2-3322-4461-b0e8-62c83a2b9d47
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+* 🤖 AI-powered fitness coach using Google Gemini
+* 📊 Interactive fitness dashboard
+* 🏃 Workout session simulator
+* 🎯 Habit and goal tracking
+* 💧 Hydration and sleep monitoring
+* 🔥 Calorie tracking and activity analytics
+* ⏱️ Workout timers with progress indicators
+* 🔐 Simulated biometric FaceID experience
+* ☁️ Health data synchronization concepts
+* 📱 Fully responsive design
+* ⚡ Optimized performance with Vite
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React 19
+* TypeScript
+* Vite
+* Tailwind CSS
+* Lucide React
+
+### Backend
+
+* Node.js
+* Express.js
+
+### AI
+
+* Google Gemini API
+
+### Storage
+
+* Local Storage
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js 18+
+* npm
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/fitnova-ai.git
+
+cd fitnova-ai
+
+npm install
+```
+
+### Environment Variables
+
+Create a `.env.local` file and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+### Run the Development Server
+
+```bash
+npm run dev
+```
+
+Visit:
+
+```text
+demo video available 
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+fitnova-ai/
+├── src/
+├── public/
+├── server/
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 🎯 Future Improvements
+
+* User authentication
+* Cloud database integration
+* Wearable device synchronization
+* Nutrition and meal planner
+* Workout history and analytics
+* Community challenges
+* Mobile application
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feature requests are welcome. Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Developed by
+
+**Ali Rashid**
+
+Computer Science Student • AI & Full-Stack Development Enthusiast
+
+⭐ **If you enjoyed this project, consider giving it a Star!**
