@@ -77,7 +77,11 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
+## 🎥 Demo Video
 
+Watch the complete demo of **FitNova AI** here:
+
+📽️ https://drive.google.com/file/d/1nc2mGDUSCfdaH4Gp5cbWqkvXo1yUCF2g/view?usp=sharing
 
 ---
 
