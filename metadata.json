@@ -1,0 +1,6 @@
+{
+  "name": "FitNova AI",
+  "description": "A premium, high-performance athletic habit tracker, workout explorer, and AI-powered health coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
